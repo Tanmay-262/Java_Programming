@@ -35,4 +35,12 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanmay-262/Java_Programming/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanmay-262/Java_Programming/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanmay-262/Java_Programming/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanmay-262/Java_Programming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
