@@ -36,6 +36,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tanmay-262/Java_Programming/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanmay-262/Java_Programming/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -54,4 +55,12 @@ Here's a short descThis repository contains all my Java programs and exercises w
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanmay-262/Java_Programming/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
