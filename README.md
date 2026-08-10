@@ -39,10 +39,12 @@ Here's a short descThis repository contains all my Java programs and exercises w
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tanmay-262/Java_Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tanmay-262/Java_Programming/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanmay-262/Java_Programming/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tanmay-262/Java_Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tanmay-262/Java_Programming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
