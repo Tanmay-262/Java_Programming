@@ -60,9 +60,18 @@ Here's a short descThis repository contains all my Java programs and exercises w
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Tanmay-262/Java_Programming/tree/master/0225-implement-stack-using-queues) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay-262/Java_Programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tanmay-262/Java_Programming/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tanmay-262/Java_Programming/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
