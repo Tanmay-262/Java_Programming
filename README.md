@@ -39,6 +39,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tanmay-262/Java_Programming/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanmay-262/Java_Programming/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay-262/Java_Programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay-262/Java_Programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
