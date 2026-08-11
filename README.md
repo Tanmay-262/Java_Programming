@@ -8,6 +8,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | ------- |
 | [0015-3sum](https://github.com/Tanmay-262/Java_Programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tanmay-262/Java_Programming/tree/master/0049-group-anagrams) |
+| [0739-daily-temperatures](https://github.com/Tanmay-262/Java_Programming/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmay-262/Java_Programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | [0020-valid-parentheses](https://github.com/Tanmay-262/Java_Programming/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Tanmay-262/Java_Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tanmay-262/Java_Programming/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Tanmay-262/Java_Programming/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay-262/Java_Programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -77,4 +79,8 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tanmay-262/Java_Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tanmay-262/Java_Programming/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Tanmay-262/Java_Programming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
