@@ -29,6 +29,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | ------- |
 | [0009-palindrome-number](https://github.com/Tanmay-262/Java_Programming/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Tanmay-262/Java_Programming/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Tanmay-262/Java_Programming/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Tanmay-262/Java_Programming/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | [0021-merge-two-sorted-lists](https://github.com/Tanmay-262/Java_Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tanmay-262/Java_Programming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Tanmay-262/Java_Programming/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Tanmay-262/Java_Programming/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Tanmay-262/Java_Programming/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
