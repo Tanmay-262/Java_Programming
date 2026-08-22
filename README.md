@@ -8,6 +8,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 | ------- |
 | [0015-3sum](https://github.com/Tanmay-262/Java_Programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tanmay-262/Java_Programming/tree/master/0049-group-anagrams) |
+| [0322-coin-change](https://github.com/Tanmay-262/Java_Programming/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/Tanmay-262/Java_Programming/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanmay-262/Java_Programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -92,6 +93,7 @@ Here's a short descThis repository contains all my Java programs and exercises w
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Tanmay-262/Java_Programming/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Tanmay-262/Java_Programming/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -101,4 +103,16 @@ Here's a short descThis repository contains all my Java programs and exercises w
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tanmay-262/Java_Programming/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Tanmay-262/Java_Programming/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Tanmay-262/Java_Programming/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Tanmay-262/Java_Programming/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
